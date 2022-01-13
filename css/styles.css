@@ -1,0 +1,93 @@
+/* heading tags */
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1.5;
+    padding: 0 40% 0 5%;
+    color: #fff;
+}
+
+h2{
+    color: #fff;
+    margin: 3% 0;
+    font-size: 3rem;
+}
+
+    h4{
+    color: #fff;
+    padding-top:2% ;
+    padding-right: 5%;
+}
+
+/* title section */
+.navbar-nav{
+    padding-left: 65%;
+   
+}
+
+.navbar-brand{
+    font-size: 2.5rem;
+    padding-left: 5%;
+}
+
+.title-pic{
+    width: 38%;
+    height: 38%;
+    margin-left: 65%;
+    
+}
+
+
+/* top-section */
+#top-section{
+    background-color:#0d6efd;
+    padding: 8% 5% 0% 0%;
+}
+/* product section */
+#range_product_section{
+    background-color:#0d6efd;
+    text-align: center;
+
+}
+.d-block {
+    border-radius: 100%;
+    width: 15%;
+    height: 15%;
+    margin:5% 0 0 40%;
+    
+}
+#carouselControls{
+    margin-top: 4%;
+    padding-top: 1%;
+}
+/* purchase section */
+#purchase_section{
+    margin-top: 3%;
+    background-color:#0d6efd;
+}
+.card{
+    margin: 2% 5%;
+}
+@media (max-width: 700px){
+    .card{
+        margin-left: 25%;
+        
+    }
+}
+
+
+/* download section */
+#cta{
+    background-color:#0d6efd;
+    text-align: center;
+    margin-top: 3%;
+    color: #fff;
+}
+/* fotter */
+#fotter{
+    text-align: center;
+}
+.social-icon{
+    margin: 2% 0.5%;
+}
